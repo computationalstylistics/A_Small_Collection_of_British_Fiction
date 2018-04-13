@@ -1,0 +1,28 @@
+textID author	authorID	title	1stPubl	author_gender	comment
+1	Austen, Jane 	JA	Emma	1815	1	
+2	Austen, Jane 	JA	Pride	1813	1	
+3	Austen, Jane 	JA	Sense	1811	1	
+4	Bronte, Anne	AB	Agnes Grey	1847	1	
+5	Bronte, Anne	AB	Tentant of Wildfell Hall	1848	1	
+6	Bronte, Charlotte	CB	Jane Eyre	1847	1	
+7	Bronte, Charlotte	CB	Professor	1845	1	date of publ not exact; published posthumously
+8	Bronte, Charlotte	CB	Villette	1853	1	
+9	Bronte, Emily	EB	Wuthering Heights	1847	1	
+10	Dickens, Charles	CD	Bleak House	1852	2	serial
+11	Dickens, Charles	CD	David Copperfield	1849	2	serial
+12	Dickens, Charles	CD	Hard Times	1854	2	serial
+13	Eliot, George	GE	Adam Bede	1859	1	
+14	Eliot, George	GE	Middlemarch	1871	1	
+15	Eliot, George	GE	The Mill on the Floss	1860	1	
+16	Fielding, Henry	HF	Joseph Andrews	1742	2	
+17	Fielding, Henry	HF	Tom Jones	1749	2	
+18	Richardson, Samuel	SR	Clarissa, or, the History of a Young Lady 	1748	2	epistolary novel
+19	Richardson, Samuel	SR	Pamela	1740	2	epistolary novel
+20	Sterne, Laurence	LS	Tristam Shandy	1759	2	
+21	Sterne, Laurence	LS	Sentimental	1768	2	
+22	Trollope, Antony	AT	Prime Minister	1876	2	Palliser series
+23	Trollope, Antony	AT	Barchester Towers	1857	2	"Chronicles of Barsetshire" series
+24	Trollope, Antony	AT	Phineas Finn	1869	2	Palliser series
+25	Thackeray, William Makepeace	WT	Vanity Fair	1848	2	
+26	Thackeray, William Makepeace	WT	The History of Pendennis	1848	2	
+27	Thackeray, William Makepeace	WT	The Luck of Barry Lyndon 	1844	2	
